@@ -312,6 +312,8 @@ const tick = () =>
     // Update controls
     controls.update()
 
+    // Update tick anabled controls
+
     // Render
     renderer.render(scene, camera)
 
